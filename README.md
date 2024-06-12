@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Bird Identification using Audio.<br>👯 I’m looking to collaborate on Machine Learning Projects.<br>🤝 I’m looking for help with Machine Learning.<br>🌱 I’m currently learning Neural Networks.<br>💬 I love Photography and Graphic Design.<br>⚡ **Fun fact: The first computer bug was an actual bug.**
+🔭 I’m currently working on Bird Identification using Audio.<br>👯 I’m looking to collaborate on Machine Learning Projects.<br>🤝 I’m looking for help with Machine Learning.<br>🌱 I’m currently learning Neural Networks.<br>💬 I love Photography and Graphic Design.<br>✉️ Contact: khatiwadaprajwal22@gmail.com <br>⚡ **Fun fact: The first computer bug was an actual bug.**
 
 
 ## 🌐 Socials:
