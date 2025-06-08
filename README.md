@@ -4,7 +4,7 @@
 🔭 I’m currently working on Bird Identification using Audio.<br>👯 I’m looking to collaborate on Machine Learning Projects.<br>🤝 I’m looking for help with Machine Learning.<br>🌱 I’m currently learning Neural Networks.<br>💬 I love Photography and Graphics Design.<br>✉️ Contact: khatiwadaprajwal22@gmail.com <br>⚡ **Fun fact: The first computer bug was an actual bug.**
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prajwal.khatiwada.904) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prajwalkhatiwada_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-khatiwada-9481991b6) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Khatiwadaprajwal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prajwal2816794) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-khatiwada-9481991b6) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Khatiwadaprajwal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prajwal2816794) 
 
 
 # 💻 Tech Stack:
